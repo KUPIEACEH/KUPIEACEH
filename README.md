@@ -14,8 +14,8 @@
   <a href="https://twitter.com/dhamus" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhamus" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/zachriek" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zachriek" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/comming" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/comming" height="30" width="40" />
   </a>
   <a href="https://fb.com/kupie01" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kupie01" height="30" width="40" />
