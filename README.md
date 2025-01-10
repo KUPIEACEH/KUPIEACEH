@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=kupieaceh&label=Profile%20views&color=0e75b6&style=flat" alt="DhaMus" />
 </p>
 
-- 👨‍💻 All of my projects are available at [http://kupieaceh.github.io/](http://kupieaceh.github.io/)
+- 👨‍💻 All of my projects are available at [dhamus.osean.id]([https://dhamus.osean.id/])
 
-- 📫 How to reach me **dhamus@oseanweb.co.id**
+- 📫 How to reach me **saya@dhamus.osean.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
