@@ -80,4 +80,49 @@
   // ### SOCIAL_NETWORK_NODES ###
   // ============================
   // Establishing secure connections... ░▒▓▒░
-  [NODE] Dev.to         : <a href
+  [NODE] Dev.to         : <a href="https://dev.to/kupieaceh" rel="noopener" style="color: #00FFFF;">/kupieaceh</a>
+  [NODE] LinkedIn       : <a href="https://linkedin.com/in/dhawymusyari" rel="noopener" style="color: #00FFFF;">/in/dhawymusyari</a>
+  [NODE] Instagram      : <a href="https://instagram.com/espesaboh" rel="noopener" style="color: #00FFFF;">/espesaboh</a>
+  [NODE] YouTube        : <a href="https://www.youtube.com/c/kupieaceh" rel="noopener" style="color: #00FFFF;">/kupieaceh_legacy_placeholder</a> <span style="color: #FFFF00;">// User should update this link if it's a real channel</span>
+  [NODE] Discord Server : <a href="https://discord.gg/PCw6VH7Zyk" rel="noopener" style="color: #00FFFF;">Join_Community_PCw6VH7Zyk</a>
+  [NODE] Twitter        : <a href="https://twitter.com/" rel="noopener" style="color: #00FFFF;">@YourTwitterHandle</a> <span style="color: #FFFF00;">// Please specify your Twitter handle</span>
+  // ...Connections Established.
+
+  // ### GITHUB_ACTIVITY_LOG (Textual Emulation) ###
+  // ===============================================
+  [INFO] Username: kupieaceh
+  [SIM_STAT] Top Languages (Estimated from project analysis):
+           - JavaScript: ~65%
+           - HTML/CSS: ~20%
+           - PHP: ~10%
+           - Other: ~5%
+  [SIM_STAT] Recent Activity: Commits pushed to various repositories. Focus on 'BotJago'.
+  [WARN] Graphical GitHub stats images are disabled by user policy.
+
+  // ### FUN_FACT_BUFFER ###
+  // =======================
+  [TRIVIA_ENTRY_001] I love creating bots that make Discord communities more fun and functional! <span style="animation: blink-animation 1s steps(2, start) infinite;">▌</span>
+
+  // ### SUPPORT_TRANSMISSION_CHANNEL ###
+  // ====================================
+  [SUPPORT_PORTAL] <a href="https://www.buymeacoffee.com/jagopremium" rel="noopener" style="color: #00FFFF;">Send_Support_Signal_via_BuyMeACoffee/jagopremium</a>
+
+  ---------------------------------------------------------------------
+  [INFO] DhaMus_Profile_System Logging Off...
+  [PROMPT] Have a secure day.
+  ---------------------------------------------------------------------
+</pre>
+
+<style>
+  /* Minimal blink animation for the cursor - MIGHT BE STRIPPED BY GITHUB */
+  @keyframes blink-animation {
+    to {
+      visibility: hidden;
+    }
+  }
+  /* Note: Most complex CSS, including animations, is usually stripped by GitHub.
+     The <pre> style for font, color, background is more likely to be partially respected
+     than the @keyframes animation. If the blink doesn't work, the cursor will be static.
+     The inline styles on <a> and <span> tags for color have a better chance of working.
+  */
+</style>
