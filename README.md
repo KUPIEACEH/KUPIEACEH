@@ -1,6 +1,6 @@
 <!-- 🌌 Animated Background (optional preview) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="600" alt="Matrix Background" style="border-radius: 8px; box-shadow: 0 0 10px #00ff00;">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="1200" alt="Matrix Background" style="border-radius: 8px; box-shadow: 0 0 10px #00ff00;">
 </p>
 
 
