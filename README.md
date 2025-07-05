@@ -35,18 +35,6 @@
 
 ---
 
-## 🖼️ Portfolio Showcase
-
-<p align="center">
-  <img src="https://placehold.co/600x300/000000/00FF00?text=Project+1:+Store+TopUp" alt="Project 1" />
-  <br /><br />
-  <img src="https://placehold.co/600x300/000000/00FF00?text=Project+2:+Music+Bot+Discord" alt="Project 2" />
-  <br /><br />
-  <img src="https://placehold.co/600x300/000000/00FF00?text=Project+3:+QRIS+Gateway" alt="Project 3" />
-</p>
-
----
-
 ## 💻 Terminal Simulator
 
 ```bash
