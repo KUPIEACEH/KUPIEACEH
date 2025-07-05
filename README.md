@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kupieaceh&label=Profile%20Views&color=00FF00&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=kupieaceh&label=Profile%20Views&color=383838&style=flat-square" />
   <img src="https://img.shields.io/github/followers/kupieaceh?label=Followers&style=social" />
 </p>
 
