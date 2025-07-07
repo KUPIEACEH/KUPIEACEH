@@ -13,7 +13,7 @@
 
 > **Name**: Kupie  
 > **From**: Aceh, Indonesia 🇮🇩  
-> **Role**: Frontend Developer | System Engineer | Tech Explorer  
+> **Role**: Frontend Developer 76% | BackEnd Developer 48% | Tech Explorer  
 > **Currently Building**: [Sahabat Store Topup](https://sahabatstoretopup.com)
 
 ---
